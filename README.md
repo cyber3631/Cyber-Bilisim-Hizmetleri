@@ -10,5 +10,5 @@ Başlamış Olan Sağladığımız Kaliteli Hizmet ile Bütün Müşterilerimize
       <img alt="Youtube" src="https://cdn.discordapp.com/attachments/1128397959285981214/1142405290503974992/Background.png" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-      <img alt="Youtube" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+      <img alt="Youtube" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" width="150px" />
     </a>
