@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Cyber Bilişim Hizmetleri" />
+ <img width="100px" src="https://cdn.discordapp.com/attachments/1128394278272499948/1142401891771363338/logo.png" align="center" alt="Cyber Bilişim Hizmetleri" />
  <h2 align="center">Cyber Bilişim Hizmetleri</h2>
  <p align="center">"Cyber Bilişim ile Kalite ve Güvenlik" Sözümüzü Benimseyerek Hizmete
 Başlamış Olan Sağladığımız Kaliteli Hizmet ile Bütün Müşterilerimize En
