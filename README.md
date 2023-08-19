@@ -7,7 +7,7 @@ Başlamış Olan Sağladığımız Kaliteli Hizmet ile Bütün Müşterilerimize
 </p>
   <p align="center">
     <a href="https://www.youtube.com/@CyberBilisimHizmetleri">
-      <img alt="Youtube" src="https://cdn.discordapp.com/attachments/1128397959285981214/1142407661816655893/wedsad.png" />
+      <img alt="Youtube" src="https://cdn.discordapp.com/attachments/1128397959285981214/1142412745849974814/Background_1.png" />
     </a>
     <a href="https://www.cyberbilisim.html-5.me">
       <img alt="site" src="https://cdn.discordapp.com/attachments/1128397959285981214/1142407661816655893/wedsad.png" />
