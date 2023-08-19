@@ -9,6 +9,6 @@ Başlamış Olan Sağladığımız Kaliteli Hizmet ile Bütün Müşterilerimize
     <a href="https://www.youtube.com/@CyberBilisimHizmetleri">
       <img alt="Youtube" src="https://cdn.discordapp.com/attachments/1128397959285981214/1142407028963287181/Background_2.png" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-      <img alt="site" src="https://cdn.discordapp.com/attachments/1128397959285981214/1142407661816655893/wedsad.png)https://cdn.discordapp.com/attachments/1128397959285981214/1142407661816655893/wedsad.png" />
+    <a href="https://www.youtube.com/@CyberBilisimHizmetleri">
+      <img alt="Youtube" src="https://cdn.discordapp.com/attachments/1128397959285981214/1142407028963287181/Background_2.png" />
     </a>
