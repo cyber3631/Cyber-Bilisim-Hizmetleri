@@ -3,7 +3,7 @@
  <h2 align="center">Cyber Bilişim Hizmetleri</h2>
  <p align="center">"Cyber Bilişim ile Kalite ve Güvenlik" Sözümüzü Benimseyerek Hizmete
 Başlamış Olan Sağladığımız Kaliteli Hizmet ile Bütün Müşterilerimize En
-İyi Hizmeti Vermeyi Amaç Edindik.</p>
+İyi Hizmeti Vermeyi Amaç Edindik</p>
 </p>
   <p align="center">
     <a href="https://www.youtube.com/@CyberBilisimHizmetleri">
